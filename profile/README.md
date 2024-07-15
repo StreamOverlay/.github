@@ -1,4 +1,4 @@
-# ![StreamOverlay Logo](https://placeholder.com/logo.png) StreamOverlay
+# ![StreamOverlay Logo](logo.png) StreamOverlay
 
 <p align="center">
   <a href="https://github.com/StreamOverlay/StreamOverlay/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/StreamOverlay/StreamOverlay.svg?style=for-the-badge&logo=github"></a>
