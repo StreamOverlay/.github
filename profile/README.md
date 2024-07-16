@@ -19,18 +19,15 @@ Welcome to **StreamOverlay**! This app provides an interactive overlay for strea
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://placeholder.com/screenshot1.png" alt="Screenshot 1" width="400">
-  <img src="https://placeholder.com/screenshot2.png" alt="Screenshot 2" width="400">
+  <img src="sc-1.png" alt="Screenshot 1" width="400">
+  <img src="sc-2.png" alt="Screenshot 2" width="400">
 </p>
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version X.X.X or higher)
-- [PHP](https://php.net)(version 8.2.0 or higher)
-- [Laravel](laravel.com)(version 11.X.X or higher)
-- [Godot](https://godotengine.org/download/)(version 4)
+- [Godot](https://godotengine.org/download/)(version 3)
 - [OBS Studio](https://obsproject.com/)
 
 ### Installation
