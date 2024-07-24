@@ -71,8 +71,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to open an issue or reach out to us at [info@imaarov.ir](mailto:info@imaarov.ir).
 
 ## Inspired by: 
-- StreamAvatars
-- [twitch_avatar_overlay](https://github.com/MrEliptik/twitch_avatars_overlay)
+- [StreamAvatars](https://www.streamavatars.com)
+- [twitch_avatar_overlay(heavily used for first version)](https://github.com/MrEliptik/twitch_avatars_overlay)
 
 ---
 
